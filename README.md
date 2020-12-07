@@ -1,5 +1,7 @@
 # nginx-prod-prep-fedora
 Fedora web server using nginx and php-fpm
+## Credit for initial lineup:
+> https://www.howtoforge.com/how-to-install-nginx-with-php-and-mariadb-lemp-stack-on-fedora-32/
 
 Installs and configures:
 1. nginx

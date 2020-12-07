@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Credit for initial lineup:
-# https://www.howtoforge.com/how-to-install-nginx-with-php-and-mariadb-lemp-stack-on-fedora-32/
-
 hostnamectl set-hostname f33-lemp
 
 dnf upgrade -y
