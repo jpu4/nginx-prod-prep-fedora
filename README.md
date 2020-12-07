@@ -11,4 +11,5 @@ Installs and configures:
 7. opcache
 8. Let's Encrypt
 9. WordPress WP CLI
+10. creates basic nginx conf template using include for server block
 10. creates web server multisite folder structure

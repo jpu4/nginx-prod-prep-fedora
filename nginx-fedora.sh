@@ -162,6 +162,7 @@ echo "<?php phpinfo(); ?>" > $dirSites/default/www/t.php
 mysql -e "CREATE USER '$dbadmin'@'%' IDENTIFIED BY '$dbadminpass';"
 mysql -e "GRANT ALL PRIVILEGES ON *.* TO '$dbadmin'@'%' WITH GRANT OPTION;"
 
+# NGINX CONF TEMPLATE
 echo "
 server {
     listen 80;
